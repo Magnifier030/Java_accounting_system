@@ -1,0 +1,7 @@
+.button {
+   -fx-background-color: rgba(1,1,1,.7);
+   -fx-text-fill: white;
+}
+.hbox{
+   -fx-background-color: rgba(1,1,1,1.0);
+}

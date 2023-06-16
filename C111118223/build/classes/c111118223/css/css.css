@@ -1,0 +1,42 @@
+.button {
+   -fx-background-color: rgba(1,1,1,.7);
+   -fx-text-fill: white;
+}
+.button:hover
+{
+    -fx-background-color: rgba(100,100,100,0.5);
+    -fx-background-radius: 30;
+    -fx-text-fill: white;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color:white;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 0.5em;
+}
+.scroll-pane{
+    -fx-background-color:black;
+}
+.scroll-bar{
+    -fx-background-color: rgba(100,100,100,0);
+}
+.number_button {
+   -fx-background-color: rgba(0,0,0,0.5);
+   -fx-text-fill: white;
+   -fx-font-size: 25pt;
+}
+.hbox{
+   -fx-background-color: rgba(1,1,1,1.0);
+}
+.pane-black{
+    -fx-background-color:rgba(1,1,1,0.8);
+}
+.white{
+    -fx-background-color:rgba(223,223,223,1.0);
+}
+.blue{
+    -fx-background-color:rgba(255,88,10,1.0);
+}
+.separator{
+    -fx-background-color:rgba(200,200,200,0.1);
+}
